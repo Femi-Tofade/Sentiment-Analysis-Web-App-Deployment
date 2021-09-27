@@ -13,7 +13,6 @@ In this project, i created an app using Amazon SageMaker and Pytorch using the I
 ## File Descriptions <a name="files"></a>
 
 #### Folders: 
-* images: This folder contains the images used in the SageMaker Project notebook
 * serve:  This folder contains the model and train function when using pytorch to deploy a model
 * train: This folder contains the model and train functions when using sagemaker to deploy a model
 * website: This folder contains the index.html for the web app
